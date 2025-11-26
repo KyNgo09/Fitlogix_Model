@@ -1,0 +1,137 @@
+workout_id,name,category,level,description,media_url,equipment
+1,Barbell Bench Press,chest,Intermediate,"1. Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points.
+2. Grab the barbell on the rack at slightly wider than shoulder-width by extending your arms and bring it forward until it is over the middle of your chest and your arms are fully extended.
+3. Inhale and lower the barbell towards the middle of your chest.
+4. Continue lowering the barbell until just before it makes contact with your chest.
+5. Exhale and push the barbell upwards returning to the starting position, while keeping your feet, lower back, upper back, and head firmly planted.
+6. After all reps are completed, return the barbell to the rack.",https://app.fitnessai.com/exercises/00251201-Barbell-Bench-Press-Chest.mp4,Barbell
+2,Incline Dumbbell Bench Press,chest,Intermediate,"1. Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points while holding two dumbbells at shoulder level with an overhand grip.
+2. Exhale and press through both hands to raise the dumbbells up and towards each other.
+3. Continue until your arms are fully extended.
+4. Inhale and lower your arms, returning to the starting position.",https://app.fitnessai.com/exercises/03141201-Dumbbell-Incline-Bench-Press-Chest.mp4,Dumbbell
+4,Push-up,chest,Beginner,"1. Position yourself prone on the ground with your legs fully extended and hands positioned at the level of your chest slightly wider than shoulder-width apart.
+2. Exhale and press yourself up by extending your arms while keeping your hips up and torso straight.
+3. Continue until your arms are fully extended and straight.
+4. Inhale and lower yourself down until just before your chest touches the floor, returning to the starting position.",https://app.fitnessai.com/exercises/06621201-Push-up-m-Chest.mp4,Body Only
+5,"Chest Fly Machine
+",chest,Beginner,"1. Sit on the machine with arms fully extended in line with your torso at the level of the middle of your chest.
+2. Exhale and bring your arms together while keeping them straight.
+3. Continue bringing your arms together until your hands are about 1 inch from each other.
+4. Inhale and bring your arms back to your sides, returning to the starting position.",https://app.fitnessai.com/exercises/05961201-Lever-Seated-Fly-Chest.mp4,Machine
+6,Cable Chest Fly,chest,Intermediate,"1. Stand between two cables positioned slightly above shoulder level, gripping them with your palms facing forward.
+2. Exhale and bring your arms forward and down, keeping them straight.
+3. Continue until just before your hands would touch.
+4. Inhale and allow your arms to raise to your sides, returning to the starting position.",https://app.fitnessai.com/exercises/12691201-Cable-Standing-Up-Straight-Crossovers-Chest.mp4,Cable
+7,Diamond Push-up,chest,Intermediate,"1. Position yourself on the ground with legs fully extended and hands in a diamond position at the level of your chest.
+2. Exhale and forcefully press yourself up by extending your arms.
+3. Continue pressing up until your arms are fully extended, preventing your hips from sagging.
+4. Inhale and lower yourself to the ground, returning to the starting position.",https://app.fitnessai.com/exercises/02831201-Diamond-Push-up-Upper-Arms.mp4,Body Only
+8,Incline Push-up,chest,Beginner,"Place hands on a higher surface (chair, table). Easier than a regular push-up, suitable for beginners building foundational strength.",,Body Only
+9,Decline Push-up,chest,Intermediate,"1. Position your hands on the ground at shoulder level, slightly wider than shoulder-width apart, and press your feet up against a wall with straight legs to hold yourself in place.
+2. While maintaining a straight torso, exhale and allow your arms to extend, raising yourself up.
+3. Continue until your arms are fully extended.
+4. Inhale and lower yourself to the ground until just before your chest makes contact with the ground, continuing to maintain a rigid torso and returning to the starting position.",https://app.fitnessai.com/exercises/34911201-Decline-Push-Up-against-Wall-Chest.mp4,Body Only
+10,Archer Push-up,chest,Advanced,"1. Bend your elbows and lower your chest towards the ground.
+2. Stop when your chest is just above the ground.
+3. Push yourself back up to the starting position. 
+4. Do the same motion with your left foot crossed behind your right ankle.",https://d2m0n84d5tgmh1.cloudfront.net/training-videos-watermarked/2033.mp4,Body Only
+11,Overhead Press,shoulders,Intermediate,"1. Standing upright, position yourself under the barbell so that you may grab it slightly wider than shoulder-width apart with your palms facing away from you.
+2. Remove the barbell from the rack and take a step backward.
+3. Exhale and raise your arms up overhead, pushing up in a straight line, without hitting your chin.
+4. Continue raising your arms up overhead until they are fully extended with the barbell directly overhead.
+5. Inhale and lower the barbell, returning to the starting position.
+6. After all reps are completed, return the barbell to the rack.",https://app.fitnessai.com/exercises/11651201-Barbell-Standing-Military-Press-without-rack-Shoulders.mp4,Barbell
+12,Seated Dumbbell Press,shoulders,Intermediate,"1. Sit on a bench that has a vertical backrest while in an upright position, holding a dumbbell in each hand with your arms at shoulder level and to the side and palms facing forward.
+2. Exhale, extending your arms both up and in.
+3. Continue pressing up and in until your arms are fully extended.
+4. Inhale and lower the dumbbells, returning to the starting position.",https://app.fitnessai.com/exercises/04051201-Dumbbell-Seated-Shoulder-Press-Shoulders.mp4,Dumbbell
+13,Handstand Push-up,shoulders,Advanced,The ultimate bodyweight exercise for shoulders. Requires excellent strength and balance.,,Body Only
+14,Pike Push-up,shoulders,Intermediate,"A stepping stone towards the Handstand Push-up, focusing on shoulder and triceps strength.",,Body Only
+15,Machine Shoulder Press,shoulders,Beginner,"Safe and stable, it's a good choice for beginners or when training to failure.",,Machine
+16,Face Pull,shoulders,Intermediate,"A top exercise for developing rear deltoids, improving posture and shoulder joint health.",,Cable
+17,Barbell Upright Row,shoulders,Intermediate,Targets the middle deltoids and trapezius muscles. Pay attention to technique to protect the shoulder joints.,,Barbell
+18,Bodyweight Lateral Raise,shoulders,Beginner,Lie on your side and lift your upper body using only shoulder strength. A rare bodyweight isolation exercise for the middle deltoid.,,Body Only
+19,Close-Grip Bench Press,triceps,Intermediate,The best exercise for building overall strength and thickness for the triceps.,,Barbell
+20,Overhead Dumbbell Extension,triceps,Beginner,"Effectively stretches the long head of the triceps, helping to maximize arm size.",,Dumbbell
+21,Dips,triceps,Intermediate,Keep the torso upright during the movement to maximize the impact on the triceps. An extremely effective exercise.,,Body Only
+22,Triceps Pushdown,triceps,Beginner,"A popular and effective isolation exercise, allowing focus on 'squeezing' the triceps with various grips.",,Cable
+23,Barbell Skull Crusher,triceps,Intermediate,"Isolates and stretches all three heads of the triceps, especially the long head.",,Barbell
+24,Seated Triceps Press,triceps,Beginner,Simulates the Overhead Extension movement but with the stability and safety of a machine.,,Machine
+25,Bench Dips,triceps,Beginner,"Use a bench or box, with hands placed behind you. A basic and very effective exercise for building triceps.",,Body Only
+26,Bodyweight Triceps Extension,triceps,Intermediate,"Kneel or stand, leaning hands against a wall or low box, bend elbows to lower the body. Effectively isolates the triceps.",,Body Only
+27,Barbell Curl,biceps,Intermediate,A foundational exercise for building overall size and strength for the biceps.,,Barbell
+28,Dumbbell Bicep Curl,biceps,Beginner,Allows for wrist supination (rotating) for a better bicep contraction and balanced development on both sides.,,Dumbbell
+29,Chin-Up,biceps,Intermediate,"A fantastic compound exercise that not
+only builds the back but also heavily targets the biceps.",,Body Only
+30,Cable Curl,biceps,Intermediate,"Creates continuous tension, helping to maintain pressure on the muscle throughout the range of motion.",,Cable
+31,Barbell Preacher Curl,biceps,Beginner,"Isolates the biceps by fixing the upper arm, preventing momentum from other muscle groups.",,Barbell
+32,Bicep Curl Machine,biceps,Beginner,"Provides a fixed movement path, making it easy for beginners to feel the muscle.",,Machine
+33,Inverted Row (Supinated Grip),biceps,Beginner,Perform an Australian pull-up but with an underhand grip. Increases bicep involvement.,,Body Only
+34,Barbell Bent-Over Row,lats,Intermediate,"A key exercise for building thickness and strength for the entire back, especially the lats.",,Barbell
+35,Dumbbell One-Arm Row,lats,Beginner,"Isolates each side of the back, improves muscle imbalances, and allows for a large range of motion.",,Dumbbell
+36,Pull-Up,lats,Advanced,"The best exercise for building back width, creating the coveted V-taper physique.",,Body Only
+37,Lat Pulldown,lats,Beginner,"An excellent alternative to the Pull-up, allowing for easy weight adjustment.",,Machine
+38,Seated Cable Row,lats,Beginner,"A foundational cable exercise, effective for building mid-back thickness and lats.",,Cable
+39,Archer Pull-up,lats,Advanced,"An advanced variation of the Pull-up, focusing strength on one arm, building unilateral pulling strength.",,Body Only
+40,T-Bar Row,middle back,Intermediate,"Allows for a narrow grip, focusing on the thickness of the mid-back and rhomboids.",,Barbell
+41,Inverted Row,middle back,Beginner,"A bodyweight pulling exercise, serving as a great stepping stone to conquer Pull-ups and strengthen the mid-back.",,Body Only
+42,Seated Row Machine,middle back,Beginner,Builds thickness for the mid-back safely and controlled with a fixed path.,,Machine
+43,Wide-Grip Seated Cable Row,middle back,Intermediate,Uses a wide grip to focus more on the upper back and rear deltoids.,,Cable
+44,Superman,middle back,Beginner,"Lie on your stomach, simultaneously lifting arms and legs off the floor. Strengthens the entire posterior chain, especially the mid-back.",,Body Only
+45,Barbell Shrug,traps,Beginner,The most basic and effective exercise for building size for the trapezius muscles (traps).,,Barbell
+46,Dumbbell Shrug,traps,Beginner,"Allows for a slightly more natural movement than the barbell, reducing stress on the joints.",,Dumbbell
+47,Farmer's Walk,traps,Intermediate,"Although often done with weights, carrying heavy objects (even water pails) is an excellent full-body exercise for traps and grip strength.",,Body Only
+48,Leverage Shrug Machine,traps,Beginner,Isolates the trapezius muscles safely and allows for heavy loads.,,Machine
+49,Cable Shrug,traps,Intermediate,"Creates a different pulling angle compared to free weights, stimulating the traps in a new way.",,Cable
+50,Scapular Pull-up,traps,Beginner,Hang from a bar and use only the shoulder blades to lift and lower the body a short distance. Activates and improves shoulder blade health.,,Body Only
+51,Wrist Roller,forearms,Intermediate,A simple tool (can be DIY-ed with a bar) to build endurance and size for the forearms.,,Barbell
+52,Dumbbell Wrist Curl,forearms,Beginner,A basic isolation exercise for the forearm flexors.,,Dumbbell
+53,Pull-up Bar Hang,forearms,Beginner,A simple but extremely effective static exercise to increase grip strength and forearm endurance.,,Body Only
+54,Wrist Curl Machine,forearms,Beginner,Provides stability to completely isolate the forearm muscles.,,Machine
+55,Cable Wrist Curl,forearms,Beginner,"Creates continuous tension, effective for training forearms with high repetitions.",,Cable
+56,Fingertip Push-up,forearms,Intermediate,Perform push-ups on your fingertips. Builds extraordinary strength in the hands and forearms.,,Body Only
+57,Barbell Full Squat,quadriceps,Intermediate,"The king of leg exercises, building overall strength and size for the entire lower body.",,Barbell
+58,Goblet Squat,quadriceps,Beginner,"Ideal for beginners to learn proper squat form, while strengthening the legs and core.",,Dumbbell
+59,Bodyweight Squat,quadriceps,Beginner,"The foundation of all lower body movements, essential to master before adding weight.",,Body Only
+60,Leg Press,quadriceps,Beginner,"Allows training with heavy weights safely, minimizing pressure on the lower back.",,Machine
+61,Leg Extension,quadriceps,Beginner,"An excellent isolation exercise to target the quadriceps, helping to create muscle definition and detail.",,Machine
+62,Hack Squat,quadriceps,Intermediate,"A machine exercise that allows for a deep squat movement safely, reducing load on the lower back and focusing maximally on the quads.",,Machine
+63,Lunge,quadriceps,Beginner,"Step one foot forward and lower the hips. A fundamental exercise to develop strength, balance, and flexibility in the legs.",,Body Only
+64,Jump Squat,quadriceps,Intermediate,"Adds an explosive element to the squat, developing explosive power and jumping ability.",,Body Only
+65,Pistol Squat,quadriceps,Advanced,"The ultimate single-leg squat, requiring extraordinary strength, balance, and flexibility.",,Body Only
+66,Barbell Deadlift,hamstrings,Intermediate,"One of the three foundational strength exercises, building comprehensive strength for the posterior chain (lower back, glutes, hamstrings) and upper back.",,Barbell
+67,Romanian Deadlift,hamstrings,Intermediate,"A top exercise for developing hamstrings and glutes, while improving lower back strength.",,Barbell
+68,Dumbbell Romanian Deadlift,hamstrings,Beginner,"A safer and more accessible version of the RDL with a barbell, ideal for beginners.",,Dumbbell
+69,Glute Bridge,hamstrings,Beginner,"Activates and strengthens the glutes and hamstrings, serving as a foundation for the Hip Thrust.",,Body Only
+70,Lying Leg Curl,hamstrings,Beginner,Effectively isolates the hamstrings in a prone position.,,Machine
+71,Cable Pull-Through,hamstrings,Intermediate,"Teaches the hip hinge movement safely, focusing on the glutes and hamstrings.",,Cable
+72,Nordic Hamstring Curl,hamstrings,Advanced,"One of the best exercises for building eccentric strength in the hamstrings, helping to effectively prevent injuries.",,Body Only
+73,Barbell Hip Thrust,glutes,Intermediate,The best exercise for building strength and size in the glutes.,,Barbell
+74,Bulgarian Split Squat,glutes,Intermediate,"An extreme challenge for stability and unilateral strength, deeply targeting the glutes and thighs.",,Dumbbell
+75,Single-Leg Glute Bridge,glutes,Intermediate,"An advancement from the Glute Bridge, strengthening each side of the glutes individually.",,Body Only
+76,Glute Kickback Machine,glutes,Beginner,Isolates and focuses on effectively shaping the glute muscles.,,Machine
+77,Cable Kickback,glutes,Intermediate,One of the most popular exercises for creating roundness and firmness in the glutes.,,Cable
+78,Hip Thrust (Bodyweight),glutes,Beginner,A foundational exercise to activate and build glute strength without added weight.,,Body Only
+79,Donkey Kicks,glutes,Beginner,"Kneel on the floor, kick one leg back and up. Focuses on contracting and shaping the gluteus maximus.",,Body Only
+80,Barbell Calf Raise,calves,Intermediate,Uses a barbell to add heavy load to the calf exercise.,,Barbell
+81,Dumbbell Seated Calf Raise,calves,Beginner,Sit on a bench and place dumbbells on the thighs to focus on the soleus muscle of the calf.,,Dumbbell
+82,Bodyweight Calf Raise,calves,Beginner,"Can be performed anywhere, focusing on high repetitions to increase endurance.",,Body Only
+83,Standing Calf Raise Machine,calves,Beginner,"Targets the gastrocnemius, the largest and most visible part of the calf.",,Machine
+84,Single-Leg Calf Raise,calves,Beginner,"Stand on one leg and raise the heel. Doubles the load compared to the two-legged version, stimulating muscle growth.",,Body Only
+85,Dumbbell Side Lunge,adductors,Intermediate,Strengthens and increases flexibility for the adductor (inner thigh) and abductor (outer thigh) muscles.,,Dumbbell
+86,Cossack Squat,adductors,Intermediate,An excellent exercise to improve hip flexibility and strengthen the inner thigh muscles.,,Body Only
+87,Hip Adduction Machine,adductors,Beginner,"Completely isolates the adductor muscles, helping to increase strength and stability in the hip area.",,Machine
+88,Cable Hip Adduction,adductors,Intermediate,"Uses a cable to perform the leg adduction movement, improving muscle control.",,Cable
+89,Copenhagen Plank,adductors,Intermediate,"A challenging isometric exercise, placing one leg on a bench and lifting the hips. Extremely effective for the inner thighs.",,Body Only
+90,Banded Lateral Walk,abductors,Beginner,"Using a resistance band, this exercise activates and strengthens the abductor muscles (gluteus medius).",,Body Only
+91,Dumbbell Side Lunge,abductors,Intermediate,"Similar to for adductors, this exercise also works effectively for the abductors on the supporting leg.",,Dumbbell
+92,Hip Abduction Machine,abductors,Beginner,"Isolates the abductor muscles, helping to improve hip stability and shape the outer thighs and glutes.",,Machine
+93,Cable Hip Abduction,abductors,Intermediate,"Pull the leg outward against the resistance of the cable, increasing strength and stability.",,Cable
+94,Clamshell,abductors,Beginner,"Lie on your side, knees bent, and open the top knee like a clamshell. Activates and strengthens the gluteus medius.",,Body Only
+95,Side Plank with Leg Lift,abductors,Intermediate,Get into a side plank position and lift the top leg. Challenges the outer glutes and obliques.,,Body Only
+96,Ab Rollout,abdominals,Advanced,"An extremely challenging anti-extension exercise, strengthening the entire core.",,Barbell
+97,Dumbbell Side Bend,abdominals,Beginner,"Focuses on the obliques, helping to improve torso stability.",,Dumbbell
+98,Hanging Leg Raise,abdominals,Intermediate,"The king of exercises for the lower abs, requiring grip strength and core stability.",,Body Only
+99,Abdominal Crunch Machine,abdominals,Beginner,Allows for performing crunches with weight in a safe and controlled manner.,,Machine
+100,Cable Crunch,abdominals,Beginner,"Allows for adding weight to the crunch movement, stimulating muscle development.",,Cable
+101,Plank,abdominals,Beginner,The king of static exercises for the core. Builds endurance and stability for the entire core.,,Body Only
