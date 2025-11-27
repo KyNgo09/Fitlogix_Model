@@ -98,19 +98,19 @@ class WorkoutRecommender:
         # Cấu hình Sets/Reps chuẩn khoa học
         presets = {
             "lose_fat": {
-                1: {"sets": 3, "reps": 15, "weight": "40-50% 1RM"},
-                2: {"sets": 4, "reps": 15, "weight": "50-60% 1RM"},
-                3: {"sets": 5, "reps": 12, "weight": "60-70% 1RM"}, 
+                1: {"sets": 3, "reps": 15, "weight": "40-50% 1 Rep Max"},
+                2: {"sets": 4, "reps": 15, "weight": "50-60% 1 Rep Max"},
+                3: {"sets": 5, "reps": 12, "weight": "60-70% 1 Rep Max"}, 
             },
             "gain_muscle": {
-                1: {"sets": 3, "reps": 12, "weight": "60% 1RM"},
-                2: {"sets": 4, "reps": 10, "weight": "65-75% 1RM"},
-                3: {"sets": 5, "reps": 8, "weight": "75-85% 1RM"},
+                1: {"sets": 3, "reps": 12, "weight": "60% 1 Rep Max"},
+                2: {"sets": 4, "reps": 10, "weight": "65-75% 1 Rep Max"},
+                3: {"sets": 5, "reps": 8, "weight": "75-85% 1 Rep Max"},
             },
             "maintain": {
-                1: {"sets": 3, "reps": 12, "weight": "50-60% 1RM"},
-                2: {"sets": 3, "reps": 12, "weight": "60-70% 1RM"},
-                3: {"sets": 4, "reps": 10, "weight": "65-75% 1RM"},
+                1: {"sets": 3, "reps": 12, "weight": "50-60% 1 Rep Max"},
+                2: {"sets": 3, "reps": 12, "weight": "60-70% 1 Rep Max"},
+                3: {"sets": 4, "reps": 10, "weight": "65-75% 1 Rep Max"},
             }
         }
         
